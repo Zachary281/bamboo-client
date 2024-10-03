@@ -4,7 +4,7 @@
 "![Bamboo_(item)_JE1_BE1](https://github.com/user-attachments/assets/f8bba832-9beb-49d0-a9ab-5ed2b98ebc4c)" alt="" width="15%"/>
 
 
-<h1 align="center"#64FF33>Bamboo</h1>
+<h1 align="center"#64FF33><style="color:red">Bamboo</h1>
 <p align="center">A Minecraft Hack Client For Servers.</p>
 
 <div align="center">
