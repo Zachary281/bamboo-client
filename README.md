@@ -1,6 +1,7 @@
 
 <p align="center">
-<img src="" alt="" width="15%"/>
+<img src=
+"![Bamboo_(item)_JE1_BE1](https://github.com/user-attachments/assets/f8bba832-9beb-49d0-a9ab-5ed2b98ebc4c)" alt="" width="15%"/>
 
 
 <h1 align="center">Bamboo</h1>
