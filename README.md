@@ -8,7 +8,7 @@
 <p align="center">A Minecraft Hack Client For Servers.</p>
 
 <div align="center">
-    <a href="[https://discord.gg/bBGQZvd](https://discord.gg/4Kj7zZcRav)"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
+    <a href="[https://discord.gg/bBGQZvd](https://discord.gg/4Kj7zZcRav)"><img src="https://img.shields.io/discord/1291396579919663104?logo=discord" alt="Discord"/></a>
     <br>
 </div>
 
