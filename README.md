@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
-</p>
+<img src="" alt="" width="15%"/>
 
-<h1 align="center">Meteor</h1>
-<p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
+
+<h1 align="center">Bamboo</h1>
+<p align="center">A Minecraft Hack Client For Servers.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
